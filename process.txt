@@ -1,0 +1,14 @@
+cmd.exe /c flutter doctor
+"C:\Development\fvm\default\bin\cache\dart-sdk\bin\dart.exe"  --disable-dart-dev --packages="C:\Development\fvm\default\packages\flutter_tools\.packages"  "C:\Development\fvm\default\bin\cache\flutter_tools.snapshot" doctor 
+
+==============================================================
+
+cmd.exe /c fvm list
+"C:\Development\fvm\\src\dart.exe"  "C:\Development\fvm\\src\fvm.snapshot" list
+
+==============================================================
+
+cmd.exe /c fvm flutter doctor
+"C:\Development\fvm\\src\dart.exe"  "C:\Development\fvm\\src\fvm.snapshot" flutter doctor
+C:\WINDOWS\system32\cmd.exe /c C:\Development\fvm\versions\2.10.5\bin\flutter.bat doctor
+"C:\Development\fvm\versions\2.10.5\bin\cache\dart-sdk\bin\dart.exe"  --disable-dart-dev --packages="C:\Development\fvm\versions\2.10.5\packages\flutter_tools\.packages"  "C:\Development\fvm\versions\2.10.5\bin\cache\flutter_tools.snapshot" doctor 
